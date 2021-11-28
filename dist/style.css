@@ -1,0 +1,18 @@
+* {
+  font-family: Calibiri;
+  text-align: center;
+}
+button {
+  background-color: rgb(100, 50, 25);
+  color: rgb(100, 100, 100);
+  padding: 10px;
+  width: 400px;
+  cursor: pointer;
+}
+#placeholder {
+  height: 120px;
+  width: 120px;
+  padding: 50px;
+  margin: 50px auto;
+  font-size:200px;
+}
